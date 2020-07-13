@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer & a UI/UX Designer working in Bangalore, India.
+#### I'm a Frontend Developer & a UI/UX Designer working remotely from Bangalore, India.
 
 - 🔭 I’m currently working at **Archimydes**
 - 👨‍💻 I do `ReactJS, TypeScript, NextJS, UI/UX`
