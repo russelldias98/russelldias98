@@ -9,4 +9,6 @@
 - 📫 Reach me: russell.dias98@gmail.com
 - ⚡ Fun fact: I'm a designer turned **Frontend Developer**
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/russelldias98.svg?style=social)](https://twitter.com/russelldias98)  
+
 
