@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working at **Archimydes**
 - 👨‍💻 I do `ReactJS, TypeScript, JavaScript, NextJS, Gatsby, UI/UX`
-- 🌍 I'm mostly active within the **React Community**
 - 💼 Designed & Developed: [Integr8app Website](https://www.integr8app.com), [Integr8app](https://app.integr8app.com), [russelldias.com](https://www.russelldias.com), etc…
 - 📫 Reach me: russell.dias98@gmail.com
 - ⚡ Fun fact: I'm a designer turned **Frontend Developer**
