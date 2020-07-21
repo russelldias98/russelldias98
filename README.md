@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 #### I'm a Frontend Developer & a UI/UX Designer working remotely from Bangalore, India.
 
