@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### I'm a Software Developer & a UI/UX Designer working remotely from Bangalore, India.
+#### I'm a Software Engineer & a UI/UX Designer working remotely from Bangalore, India.
 
 - 🔭 Currently working at **Archimydes**
 - 👨‍💻 I do `ReactJS, TypeScript, JavaScript, NextJS, Gatsby and UI/UX`
