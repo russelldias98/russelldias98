@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there 👋
 
 #### I'm a Software Developer & a UI/UX Designer working remotely from Bangalore, India.
 
