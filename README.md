@@ -13,7 +13,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russelldias98&show_icons=true&locale=en" alt="russelldias98" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=russelldias98&label=Profile%20views&color=0e75b6&style=flat" alt="russelldias98" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russelldias98&" alt="russelldias98" /></p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/russelldias98.svg?style=social)](https://twitter.com/russelldias98)  
 
 
