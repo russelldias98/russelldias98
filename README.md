@@ -4,7 +4,6 @@
 
 - 🔭 Currently working at **Archimydes**
 - 💼 Designed & Developed: [Integr8app Website](https://www.integr8app.com), [Integr8app](https://app.integr8app.com), [russelldias.com](https://www.russelldias.com), etc…
-- ⚡ Fun fact: I'm a designer turned **Software Developer**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russelldias98&" alt="russelldias98" /></p>
 
