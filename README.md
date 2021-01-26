@@ -2,7 +2,6 @@
 
 #### I'm a Software Developer and a UI/UX Designer working remotely from Bangalore, India.
 
-- 🔭 Currently working at **Archimydes**
 - 💼 Designed & Developed: [Integr8app Website](https://www.integr8app.com), [Integr8app](https://app.integr8app.com), [russelldias.com](https://www.russelldias.com), etc…
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russelldias98&" alt="russelldias98" /></p>
