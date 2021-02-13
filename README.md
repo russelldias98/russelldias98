@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Developer and a UI/UX Designer working remotely from Bangalore, India.
+#### I'm a Software Developer and a UI/UX Designer working remotely.
 
 - 💼 Designed & Developed: [Integr8app Website](https://www.integr8app.com), [Integr8app](https://app.integr8app.com), [russelldias.com](https://www.russelldias.com), etc…
 
