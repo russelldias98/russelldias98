@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 #### I'm a Software Developer and a UI/UX Designer working remotely.
 
