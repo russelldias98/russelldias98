@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I'm a Software Developer and a UI/UX Designer working remotely.
+#### I'm a Software Developer and a UI/UX Designer working remotely!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russelldias98&" alt="russelldias98" /></p>
 
