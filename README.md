@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I code and design remotely!
+#### I code and design!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russelldias98&" alt="russelldias98" /></p>
 
