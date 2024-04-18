@@ -13,4 +13,4 @@ I'm a Full Stack Engineer passionate about building efficient and scalable web a
 ### 🤝 Let's Connect
 Feel free to reach out to me if you want to chat!
 - 📫 How to reach me: **russ.dias@icloud.com**
-- 👤 LinkedIn: [My Profile]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/russell-dias/))
+- 👤 LinkedIn: [My Profile](https://linkedin.com/in/russell-dias)
