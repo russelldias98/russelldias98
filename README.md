@@ -1,10 +1,5 @@
 # Hello, I'm Russ! 👋
 
-## Welcome to my GitHub Profile!
-
-### 🌐 About Me
-I'm a Full Stack Engineer passionate about building efficient and scalable web applications. I specialize in using React, JavaScript, TypeScript, and Go to create seamless user experiences on the web.
-
 ### 🔨 Technologies I Work With
 - **Frontend:** React, JavaScript, TypeScript, NextJS
 - **Backend:** Go, NodeJS, Serverless, SQL
