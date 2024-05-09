@@ -1,4 +1,4 @@
-# Hello, I'm Russ! 👋
+# Hello, I'm Russ! A full stack engineer at Neon 👋
 
 ### 🔨 Technologies I Work With
 - **Frontend:** React, JavaScript, TypeScript, NextJS
